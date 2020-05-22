@@ -1,0 +1,44 @@
+html,body,footer{
+    overflow-x: hidden;
+    background-color: #343A40;
+}
+.logoClickart3{
+    width: 150px;
+    height: 60px;
+    border-color: black;
+    padding: 5px;
+    box-shadow: inset 6px 6px 15px black;
+    border-radius: 20px;
+}
+.identifiedBtn{
+    border-color: black;
+    padding: 5px;
+    box-shadow: 0px 6px 15px black;
+}
+.profilCSS{
+    box-shadow: 10px 10px 10px darkslategrey;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    background-image: radial-gradient(circle at top left, #343A40, grey);
+   
+}
+/*logo canvas*/
+#olivier{
+    height: 60px;
+}
+.font{
+    font-family: 'Caveat', cursive;
+    font-size: 180%; 
+}
+.btnCard{
+  margin-top: 30px;
+}
+.commentColor{
+    color: white;
+}

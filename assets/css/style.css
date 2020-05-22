@@ -1,0 +1,143 @@
+body,footer,.row{
+    margin: 0 ;
+    padding: 0 ;
+    overflow-x: hidden;
+}
+header{
+    height: 70px;
+    background-color: rgba(137,137,137,0.6);
+}
+body{
+    background: url('../img/imgIndexBg2.jpg') top center no-repeat;
+    background-size: 80vw 100vh;
+}
+footer{
+    position: absolute; bottom: 0; left: 0; right: 0;
+    height: 30px;
+    background-color: rgba(137,137,137,0.6);
+}
+.logoClickart3{
+    width: 150px;
+    height: 60px;
+    border-color: black;
+    padding: 5px;
+    box-shadow: inset 6px 6px 15px black;
+    border-radius: 20px;
+}
+.identifiedBtn{
+    border-color: black;
+    padding: 5px;
+    box-shadow: 0px 6px 15px black;
+}
+.birthDate{
+    color: white;
+    bottom: 15%; left: 0; right: 0;
+}
+.presentation{
+    color: white;
+    font-size: 130%;
+}
+.textPresentation{
+    margin-top: 100px;
+}
+.clickart3bis{
+    width: 400px;
+    height: 300px;
+}
+.clickart5{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: inset 6px 6px 6px black; 
+}
+.clickart1{
+    margin-left: 100px;
+    margin-top: 85px;
+    width: 25% ;
+}
+.validInscription{
+    position: absolute; bottom: 8%; left: 0; right: 0;
+    color: white;
+}
+#olivier{
+    height: 60px;
+}
+.font{
+    font-family: 'Caveat', cursive;
+    font-size: 180%; 
+}
+
+@media(min-width:767px){
+    html,body,footer,.row{
+
+        margin: 0 ;
+        padding: 0 ;
+        overflow-x: hidden;
+    }
+    header{
+        height: 70px;
+        background-color: rgba(137,137,137,0.6);
+    }
+    body{
+        background: url('../img/imgIndexBg.jpg') top center no-repeat;
+        background-size: 80vw 100vh;
+    }
+    footer{
+        position: absolute; bottom: 0; left: 0; right: 0;
+        height: 30px;
+        background-color: rgba(137,137,137,0.6);
+    }
+    .logoClickart3{
+        width: 150px;
+        height: 60px;
+        border-color: black;
+        padding: 5px;
+        box-shadow: inset 6px 6px 15px black;
+        border-radius: 20px;
+    }
+    .identifiedBtn{
+        border-color: black;
+        padding: 5px;
+        box-shadow: 0px 6px 15px black;
+    }
+    .birthDate{
+        color: white;
+        bottom: 15%; left: 0; right: 0;
+    }
+    .presentation{
+        color: white;
+        font-size: 130%;
+    }
+    .clickart3bis{
+        width: 400px;
+        height: 300px;
+    }
+    .clickart5{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 10px;
+        padding: 10px;
+        box-shadow: inset 6px 6px 6px black; 
+    }
+    .clickart1{
+        margin-left: 260px;
+        margin-top: 85px;
+        width: 25% ;
+    }
+    .validInscription{
+        position: absolute; bottom: 8%; left: 0; right: 0;
+        color: white;
+    }
+    #olivier{
+        height: 60px;
+    }
+    .font{
+        font-family: 'Caveat', cursive;
+        font-size: 180%; 
+    }
+
+
+}
